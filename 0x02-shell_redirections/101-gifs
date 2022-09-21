@@ -1,0 +1,2 @@
+#!/bin/bash
+ffind . -name \*.gif -type f -printf "%f\n" |
